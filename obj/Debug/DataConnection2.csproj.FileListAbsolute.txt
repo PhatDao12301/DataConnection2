@@ -1,0 +1,15 @@
+D:\CourseDoc\DataConnection2\bin\Debug\DataConnection2.exe.config
+D:\CourseDoc\DataConnection2\bin\Debug\DataConnection2.exe.manifest
+D:\CourseDoc\DataConnection2\bin\Debug\DataConnection2.application
+D:\CourseDoc\DataConnection2\bin\Debug\DataConnection2.exe
+D:\CourseDoc\DataConnection2\bin\Debug\DataConnection2.pdb
+D:\CourseDoc\DataConnection2\bin\Debug\MySql.Data.dll
+D:\CourseDoc\DataConnection2\bin\Debug\MySql.Web.dll
+D:\CourseDoc\DataConnection2\obj\Debug\DataConnection2.csprojResolveAssemblyReference.cache
+D:\CourseDoc\DataConnection2\obj\Debug\DataConnection2.Form1.resources
+D:\CourseDoc\DataConnection2\obj\Debug\DataConnection2.Properties.Resources.resources
+D:\CourseDoc\DataConnection2\obj\Debug\DataConnection2.csproj.GenerateResource.Cache
+D:\CourseDoc\DataConnection2\obj\Debug\DataConnection2.exe.manifest
+D:\CourseDoc\DataConnection2\obj\Debug\DataConnection2.application
+D:\CourseDoc\DataConnection2\obj\Debug\DataConnection2.exe
+D:\CourseDoc\DataConnection2\obj\Debug\DataConnection2.pdb
